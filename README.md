@@ -1,2 +1,2 @@
 Portfolio of U of T Cybersecurity Bootcamp Assignments and Projects
-Networking, Archiving, Splunk, Linux, 
+Network Security, Archiving, Splunk, Linux, Cyber Threat Landscape
